@@ -93,5 +93,5 @@ data-science/
 ## 👤 Author
 
 **Aman Raj**
-- GitHub: [ELBERTAMAN](https://github.com/ELBERTAMAN)
+- GitHub: [ELBERTAMAN](https://github.com/ELBERTAMAN/NETFLIX-VISUALIZATION)
 
